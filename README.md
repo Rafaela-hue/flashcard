@@ -14,4 +14,4 @@ Após iniciar o projeto você pode:
 3. Navegar pelos cards e clicar para virá-los, testando seus conhecimentos.
 
 ## Créditos 
-Desenvolvido por Rafaela 2B
+Desenvolvido por Rafaela-2B
